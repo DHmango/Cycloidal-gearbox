@@ -1,8 +1,10 @@
 # Cycloidal-gearbox
 
 <img height="350" alt="Isometric external view" src="https://github.com/user-attachments/assets/ea0341ec-3661-407f-b3ac-3de220a59989" />
-
-[Onshape](https://cad.onshape.com/documents/6398982d285ce701bccef901/w/ffa6bacf343c9b6003d5bfaa/e/2886cce18c688735948111ca)
+<br>
+<a href="https://cad.onshape.com/documents/6398982d285ce701bccef901/w/ffa6bacf343c9b6003d5bfaa/e/2886cce18c688735948111ca">
+  <img src="https://github.com/user-attachments/assets/b3c16900-86e8-4380-a770-1173be0b8633" alt="Onshape document" height="40">
+</a>
 
 ### What actually is this?
 
