@@ -24,3 +24,5 @@ You have to buy all the aliexpress things listed in the bill of materials, print
 <video src="https://github.com/user-attachments/assets/034a3e3a-c71f-4b0c-9a27-407d3101b5ac" height="350"></video>
 <video src="https://github.com/user-attachments/assets/a0bb89e2-a3ee-468a-a437-02b617609760" height="350"></video>
 <img height="350" alt="its much smaller than a gobilda 435RPM motor" src="https://github.com/user-attachments/assets/1c9d4354-6b1c-44cc-afe8-398ab0550637" />
+
+This project was made as part of [Hackclub](https://hackclub.com/)'s [Macondo](https://macondo.hackclub.com/)
